@@ -1,0 +1,43 @@
+.col-md-2{
+    background-color: black;
+    height: 100px;
+    margin: 10px;
+}
+
+.col-md-4 {
+    background-color: white;
+    height: 100px;
+    padding: 10px;
+    
+}
+.right{
+    height: 35px;
+    margin-top: 40px;
+    /* margin-right: 30px; */
+}
+.col-md-12{
+    height:500px;
+    background-color: black;
+    margin:20px;
+    /* width: 95%; */
+}
+.left{
+    background-color: black;
+    height: 25px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.row4{
+    background-color: black;
+    height: 250px;
+    margin-top: 30px;
+    margin-left: 20px;
+    /* padding-left: 30px; */
+}
+.row4a{
+    background-color: black;
+    height: 250px;
+    margin-top: 30px;
+    margin-left: 40px;
+    /* padding-left: 30px; */
+}
