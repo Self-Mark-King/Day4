@@ -1,44 +1,52 @@
 .col-md-2{
     background-color: black;
     height: 100px;
-    margin: 10px;
+   /* margin: 10px;*/
 }
 
-.col-md-4 {
+.col-md-3 {
     background-color: white;
     height: 100px;
     padding: 10px;
+    /*margin-left: 15px;*/
+
     
 }
 .right{
     height: 35px;
     margin-top: 40px;
-    /* margin-right: 30px; */
+    margin-left: 30px;
 }
 .col-md-12{
     height:500px;
     background-color: black;
-    margin:20px;
+    /* margin:20px; */
     /* width: 95%; */
 }
 .left{
     background-color: black;
     height: 25px;
-    margin-top: 10px;
-    margin-left: 20px;
+    margin-top: 50px;
+    /*margin-left: 20px;*/
 }
 .row4{
     background-color: black;
     height: 250px;
-    margin-top: 30px;
-    margin-left: 20px;
+    margin-top: 46px;
+    /*margin-left: 20px;*/
     /* padding-left: 30px; */
 }
 .row4a{
     background-color: black;
     height: 250px;
-    margin-top: 30px;
-    margin-left: 40px;
+    margin-top: 46px;
+    margin-left: 47px;
     /* float: right; */
     /* padding-left: 30px; */
+}
+.row1 {
+    /* margin-left: 50px; */
+}
+.bottom{
+    margin-bottom: 50px;
 }
